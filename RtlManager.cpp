@@ -5,6 +5,7 @@
 #include <ctime>
 #include "PrefDialog.h"
 #include "Notepad_plus_msgs.h"
+#include "menuCmdID.h"
 
 
 //a map from the file paths to a 
